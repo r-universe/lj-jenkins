@@ -5,6 +5,9 @@
 [submodule "favr"]
 	path = favr
 	url = https://github.com/lj-jenkins/favr
+[submodule "fluffy"]
+	path = fluffy
+	url = https://github.com/lj-jenkins/fluffy
 [submodule "keylist"]
 	path = keylist
 	url = https://github.com/lj-jenkins/keylist
