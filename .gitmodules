@@ -11,3 +11,6 @@
 [submodule "keylist"]
 	path = keylist
 	url = https://github.com/lj-jenkins/keylist
+[submodule "suppr"]
+	path = suppr
+	url = https://github.com/lj-jenkins/suppr
